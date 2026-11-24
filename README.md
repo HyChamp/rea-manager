@@ -2,6 +2,12 @@
 
 逆向分析环境安装器 + 在场开关。**双击一次，环境和技能全部自动就位，不需要你手动导入任何东西。**
 
+## 配套工具（夸克网盘）
+
+- **工具一**：[IDA94ProBable.rar](https://pan.quark.cn/s/833ba1b1d143)
+- **工具二**：[WorkBuddy Unlock.zip](https://pan.quark.cn/s/7c0369e5d436)
+- **工具三**：[dsh unlock.zip](https://pan.quark.cn/s/d737c549ad95)
+
 ---
 
 ## 一、安装（只做一次）
