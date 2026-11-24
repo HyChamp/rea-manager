@@ -4,9 +4,9 @@
 
 ## 配套工具（夸克网盘）
 
-- **工具一**：[IDA94ProBable.rar](https://pan.quark.cn/s/833ba1b1d143)
-- **工具二**：[WorkBuddy Unlock.zip](https://pan.quark.cn/s/7c0369e5d436)
-- **工具三**：[dsh unlock.zip](https://pan.quark.cn/s/d737c549ad95)
+- [工具一](https://pan.quark.cn/s/833ba1b1d143)
+- [工具二](https://pan.quark.cn/s/7c0369e5d436)
+- [工具三](https://pan.quark.cn/s/d737c549ad95)
 
 ---
 
